@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anastasiatrofimcik/Desktop/универсиага/прога/c#/Solution1/ClassLibrary1/ClassLibrary1.csproj": {}
+  },
+  "projects": {
+    "/Users/anastasiatrofimcik/Desktop/универсиага/прога/c#/Solution1/ClassLibrary1/ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anastasiatrofimcik/Desktop/универсиага/прога/c#/Solution1/ClassLibrary1/ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "/Users/anastasiatrofimcik/Desktop/универсиага/прога/c#/Solution1/ClassLibrary1/ClassLibrary1.csproj",
+        "packagesPath": "/Users/anastasiatrofimcik/.nuget/packages/",
+        "outputPath": "/Users/anastasiatrofimcik/Desktop/универсиага/прога/c#/Solution1/ClassLibrary1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anastasiatrofimcik/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
